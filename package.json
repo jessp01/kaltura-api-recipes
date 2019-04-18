@@ -37,7 +37,7 @@
     "octonode": "^0.7.5",
     "remove-markdown": "0.0.6",
     "request": "^2.65.0",
-    "requestify": "^0.1.17",
+    "requestify": "^0.2.0",
     "sitemap": "^1.4.1",
     "xml2js": "^0.4.9"
   },
