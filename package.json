@@ -39,7 +39,7 @@
     "request": "^2.65.0",
     "requestify": "^0.1.17",
     "sitemap": "^1.4.1",
-    "xml2js": "^0.4.9"
+    "xml2js": "^0.5.0"
   },
   "devDependencies": {
     "busboy": "~0.2.9",
